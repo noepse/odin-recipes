@@ -1,0 +1,18 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    color: #222222;
+}
+
+body{
+    background: #eeeeee;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Monaco', Helvetica, sans-serif;
+}
+
+img{
+    height: auto;
+    width: 300px;
+}
